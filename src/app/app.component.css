@@ -1,0 +1,13 @@
+article {
+  width: 95vw;
+  border: 1px solid #0a0a0a;
+  padding: 1em;
+}
+
+header {
+  border-bottom: 1px dashed #000;
+}
+
+.css-wrap {
+  white-space: pre-wrap;
+}
